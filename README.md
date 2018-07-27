@@ -1,2 +1,7 @@
 # Data-is-Beautiful
-Using pandas, a brief guide to learning data-visualisation using how the different functions work altogether. Basically--I'm practicing, so Duh!
+A brief guide to learn data-visualisation, by using how the different methods, and libraries work altogether.
+
+
+## Using Pandas
+- [Manipulating Data]()
+	- Reading, selecting, and filtering data.	
