@@ -3,28 +3,33 @@ A brief guide to learn data-visualisation, by using how the different methods, a
 
 > This guide uses `jupyter notebooks`.
 
-## Using Pandas
+### Using Pandas
 - [Manipulating Data](https://github.com/techcentaur/Data-is-Beautiful/blob/master/Pandas/manipulating-data.py.ipynb)
 	- Reading, selecting, and filtering data.
 - [Plotting with Pandas](https://github.com/techcentaur/Data-is-Beautiful/blob/master/Pandas/Plotting%20with%20pandas.ipynb)
 	- Plotting univariate, bivariate, and multivariate graphs using pandas APIs.
 
-## Using Seaborn
+### Using Seaborn
 - [Plotting with Seaborn](https://github.com/techcentaur/Data-is-Beautiful/blob/master/Seaborn/Plotting%20with%20Seaborn.ipynb)
 	- Plotting univariate and bivariate graphs.
 - [Faceting with Seaborn](https://github.com/techcentaur/Data-is-Beautiful/blob/master/Seaborn/Faceting%20with%20Seaborn.ipynb)
 	- Faceting and pairplots in seaborn
 
-## Using Matplotlib
+### Using Matplotlib
 - [Subplotting](https://github.com/techcentaur/Data-is-Beautiful/blob/master/Matplotlib/Subplotting%20with%20Matplotlib.ipynb)
 	- Forming subplots in matplotlib
 
-## Using Plotnine
+### Using Plotnine
 - [Grammar of Graphics](https://github.com/techcentaur/Data-is-Beautiful/blob/master/Plotnine/Grammar%20of%20Graphics%20with%20Plotnine.ipynb)
 	- Learing plotting in plotnine with grammar.
 
 
-### Note to Reader
+## About Datasets
+	- `pokemon.csv`: Data about pokemons with complex (and a lot) fields/features.
+	- `pokemon_lite.csv`: Data about pokemons (800X13), with features that are easier to read.
+	- `AppleStore.csv`: Information about applications on apple store.
+
+## Note to Reader
 
 Whilst writing jupyter notebooks, I faced several warning statuses during my calls in matplotlib, numpy, and pandas. I tried to suppress it with the function from `warnings` library as `warnings.filterwarnings("always")`; sometimes it worked, and sometimes it didn't.
 
