@@ -1,5 +1,5 @@
 # Data-is-Beautiful
-A brief guide to learn data-visualisation, by using how the different methods, and libraries work altogether.
+A brief guide to learn data-visualisation, by learning how the functions work and intuitions in practice.
 
 > This guide uses `jupyter notebooks`.
 
