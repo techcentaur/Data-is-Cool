@@ -1,4 +1,4 @@
-# Data-is-Beautiful
+# Data-is-Cool
 A brief guide to learn data-visualisation, by learning how the functions work and intuitions in practice.
 
 > This guide uses `jupyter notebooks`.
